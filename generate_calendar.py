@@ -23,15 +23,42 @@ ACADEMIC_START = "2026-10-01"
 ACADEMIC_END = "2027-09-30"
 DEFAULT_DURATION_HOURS = 2
 
-def api_get(path, params):
-    url = f"{SUPABASE_URL}/rest/v1/{path}?{urllib.parse.urlencode(params, safe='(),.*')}"
-    req = urllib.request.Request(url, headers={
-        "apikey": SUPABASE_KEY,
-        "Authorization": f"Bearer {SUPABASE_KEY}",
-        "Accept": "application/json",
-    })
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.loads(r.read().decode("utf-8"))
+def api_get_all(path, params):
+    all_data = []
+    offset = 0
+    page_size = 1000
+
+    while True:
+        page_params = dict(params)
+        page_params["limit"] = str(page_size)
+        page_params["offset"] = str(offset)
+
+        url = (
+            f"{SUPABASE_URL}/rest/v1/{path}?"
+            f"{urllib.parse.urlencode(page_params, safe='(),.*')}"
+        )
+
+        req = urllib.request.Request(
+            url,
+            headers={
+                "apikey": SUPABASE_KEY,
+                "Authorization": f"Bearer {SUPABASE_KEY}",
+                "Accept": "application/json",
+            },
+        )
+
+        with urllib.request.urlopen(req, timeout=30) as r:
+            data = json.loads(r.read().decode("utf-8"))
+
+        all_data.extend(data)
+
+        if len(data) < page_size:
+            break
+
+        offset += page_size
+
+    print(f"Loaded {len(all_data)} total events from Supabase.")
+    return all_data
 
 def norm(s):
     return re.sub(r"\s+", " ", (s or "").strip().lower())
@@ -81,9 +108,9 @@ params = {
     "select": "id,event_date,event_time,type,groups_text,subjects(name,semester,programs(name)),professors(name),rooms(name)",
     "event_date": f"gte.{ACADEMIC_START}",
     "order": "event_date.asc,event_time.asc",
-    "limit": "10000",
 }
-events = api_get("events", params)
+
+events = api_get_all("events", params)
 
 selected = []
 for e in events:
