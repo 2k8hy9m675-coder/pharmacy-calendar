@@ -1,0 +1,940 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Personal UKIM Pharmacy Schedule//MK
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Фармација – мој распоред
+X-WR-TIMEZONE:Europe/Skopje
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ukim-48556@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261006T110000
+DTEND;TZID=Europe/Skopje:20261006T130000
+SUMMARY:Храна и исхрана
+LOCATION:02 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: Д
+ оц. д-р Зоран Живиќ\nГрупа: 1\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48557@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261006T120000
+DTEND;TZID=Europe/Skopje:20261006T140000
+SUMMARY:Храна и исхрана
+LOCATION:02 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: Д
+ оц. д-р Зоран Живиќ\nГрупа: 1\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48558@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261006T130000
+DTEND;TZID=Europe/Skopje:20261006T150000
+SUMMARY:Храна и исхрана
+LOCATION:02 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: Д
+ оц. д-р Зоран Живиќ\nГрупа: 1\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48570@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261007T110000
+DTEND;TZID=Europe/Skopje:20261007T130000
+SUMMARY:Биофармација
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Кристина Младеновска\nГрупа: 3\n
+ Семестар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48571@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261007T120000
+DTEND;TZID=Europe/Skopje:20261007T140000
+SUMMARY:Биофармација
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Кристина Младеновска\nГрупа: 3\n
+ Семестар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48572@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261007T130000
+DTEND;TZID=Europe/Skopje:20261007T150000
+SUMMARY:Биофармација
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Кристина Младеновска\nГрупа: 3\n
+ Семестар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48586@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261007T140000
+DTEND;TZID=Europe/Skopje:20261007T160000
+SUMMARY:Биофармација
+LOCATION:08 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 3\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48587@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261007T150000
+DTEND;TZID=Europe/Skopje:20261007T170000
+SUMMARY:Биофармација
+LOCATION:08 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 3\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48588@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261007T160000
+DTEND;TZID=Europe/Skopje:20261007T180000
+SUMMARY:Биофармација
+LOCATION:08 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 3\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48615@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261008T120000
+DTEND;TZID=Europe/Skopje:20261008T140000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Катерина Горачинова\nГрупа: 4\nС
+ еместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48616@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261008T130000
+DTEND;TZID=Europe/Skopje:20261008T150000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Катерина Горачинова\nГрупа: 4\nС
+ еместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48617@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261008T140000
+DTEND;TZID=Europe/Skopje:20261008T160000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Катерина Горачинова\nГрупа: 4\nС
+ еместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48650@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261009T120000
+DTEND;TZID=Europe/Skopje:20261009T140000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:09 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 4\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48651@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261009T130000
+DTEND;TZID=Europe/Skopje:20261009T150000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:09 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 4\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48652@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261009T140000
+DTEND;TZID=Europe/Skopje:20261009T160000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:09 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 4\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48653@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261009T150000
+DTEND;TZID=Europe/Skopje:20261009T170000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:09 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 4\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48665@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261013T110000
+DTEND;TZID=Europe/Skopje:20261013T130000
+SUMMARY:Храна и исхрана
+LOCATION:02 пред.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: Aсс. м-
+ р Ана Марија Бајатовска\nГрупа: 1\nСеме
+ стар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48666@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261013T120000
+DTEND;TZID=Europe/Skopje:20261013T140000
+SUMMARY:Храна и исхрана
+LOCATION:02 пред.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: Aсс. м-
+ р Ана Марија Бајатовска\nГрупа: 1\nСеме
+ стар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48667@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261013T130000
+DTEND;TZID=Europe/Skopje:20261013T150000
+SUMMARY:Храна и исхрана
+LOCATION:02 пред.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: Aсс. м-
+ р Ана Марија Бајатовска\nГрупа: 1\nСеме
+ стар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-57438@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261013T150000
+DTEND;TZID=Europe/Skopje:20261013T170000
+SUMMARY:Фармакогнозија
+LOCATION:02 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Ѓоше Стефков\nГрупа: 3\nСеместар
+ : 5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-57439@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261013T160000
+DTEND;TZID=Europe/Skopje:20261013T180000
+SUMMARY:Фармакогнозија
+LOCATION:02 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Ѓоше Стефков\nГрупа: 3\nСеместар
+ : 5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-57440@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261013T170000
+DTEND;TZID=Europe/Skopje:20261013T190000
+SUMMARY:Фармакогнозија
+LOCATION:02 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Ѓоше Стефков\nГрупа: 3\nСеместар
+ : 5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48685@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261014T110000
+DTEND;TZID=Europe/Skopje:20261014T130000
+SUMMARY:Биофармација
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Кристина Младеновска\nГрупа: 3\n
+ Семестар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48686@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261014T120000
+DTEND;TZID=Europe/Skopje:20261014T140000
+SUMMARY:Биофармација
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Кристина Младеновска\nГрупа: 3\n
+ Семестар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48687@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261014T130000
+DTEND;TZID=Europe/Skopje:20261014T150000
+SUMMARY:Биофармација
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Кристина Младеновска\nГрупа: 3\n
+ Семестар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48702@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261014T140000
+DTEND;TZID=Europe/Skopje:20261014T160000
+SUMMARY:Биофармација
+LOCATION:08 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 3\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48703@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261014T150000
+DTEND;TZID=Europe/Skopje:20261014T170000
+SUMMARY:Биофармација
+LOCATION:08 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 3\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48704@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261014T160000
+DTEND;TZID=Europe/Skopje:20261014T180000
+SUMMARY:Биофармација
+LOCATION:08 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 3\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48743@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261015T120000
+DTEND;TZID=Europe/Skopje:20261015T140000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Катерина Горачинова\nГрупа: 4\nС
+ еместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48744@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261015T130000
+DTEND;TZID=Europe/Skopje:20261015T150000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Катерина Горачинова\nГрупа: 4\nС
+ еместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48745@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261015T140000
+DTEND;TZID=Europe/Skopje:20261015T160000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Катерина Горачинова\nГрупа: 4\nС
+ еместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48838@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261016T120000
+DTEND;TZID=Europe/Skopje:20261016T140000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:09 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 4\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48839@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261016T130000
+DTEND;TZID=Europe/Skopje:20261016T150000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:09 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 4\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48840@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261016T140000
+DTEND;TZID=Europe/Skopje:20261016T160000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:09 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 4\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48841@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261016T150000
+DTEND;TZID=Europe/Skopje:20261016T170000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:09 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 4\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48928@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261020T080000
+DTEND;TZID=Europe/Skopje:20261020T100000
+SUMMARY:Храна и исхрана
+LOCATION:10 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: Aсс. м-
+ р Ана Марија Бајатовска\nГрупа: 1\nСеме
+ стар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48929@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261020T090000
+DTEND;TZID=Europe/Skopje:20261020T110000
+SUMMARY:Храна и исхрана
+LOCATION:10 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: Aсс. м-
+ р Ана Марија Бајатовска\nГрупа: 1\nСеме
+ стар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48930@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261020T100000
+DTEND;TZID=Europe/Skopje:20261020T120000
+SUMMARY:Храна и исхрана
+LOCATION:10 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: Aсс. м-
+ р Ана Марија Бајатовска\nГрупа: 1\nСеме
+ стар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48914@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261020T110000
+DTEND;TZID=Europe/Skopje:20261020T130000
+SUMMARY:Храна и исхрана
+LOCATION:02 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Тања Петреска Ивановска\nГрупа
+ : 1\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48915@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261020T120000
+DTEND;TZID=Europe/Skopje:20261020T140000
+SUMMARY:Храна и исхрана
+LOCATION:02 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Тања Петреска Ивановска\nГрупа
+ : 1\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48916@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261020T130000
+DTEND;TZID=Europe/Skopje:20261020T150000
+SUMMARY:Храна и исхрана
+LOCATION:02 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Тања Петреска Ивановска\nГрупа
+ : 1\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-57814@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261020T150000
+DTEND;TZID=Europe/Skopje:20261020T170000
+SUMMARY:Фармакогнозија
+LOCATION:03 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Марија Карапанџова\nГрупа: 3\nСе
+ местар: 5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-57815@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261020T160000
+DTEND;TZID=Europe/Skopje:20261020T180000
+SUMMARY:Фармакогнозија
+LOCATION:03 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Марија Карапанџова\nГрупа: 3\nСе
+ местар: 5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-57816@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261020T170000
+DTEND;TZID=Europe/Skopje:20261020T190000
+SUMMARY:Фармакогнозија
+LOCATION:03 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Марија Карапанџова\nГрупа: 3\nСе
+ местар: 5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-57671@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261021T080000
+DTEND;TZID=Europe/Skopje:20261021T100000
+SUMMARY:Фармакогнозија
+LOCATION:10 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: Aсс. м-
+ р Искра Давкова\nГрупа: 3\nСеместар: 5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-57672@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261021T090000
+DTEND;TZID=Europe/Skopje:20261021T110000
+SUMMARY:Фармакогнозија
+LOCATION:10 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: Aсс. м-
+ р Искра Давкова\nГрупа: 3\nСеместар: 5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-57673@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261021T100000
+DTEND;TZID=Europe/Skopje:20261021T120000
+SUMMARY:Фармакогнозија
+LOCATION:10 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: Aсс. м-
+ р Искра Давкова\nГрупа: 3\nСеместар: 5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48945@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261021T110000
+DTEND;TZID=Europe/Skopje:20261021T130000
+SUMMARY:Биофармација
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Кристина Младеновска\nГрупа: 3\n
+ Семестар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48946@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261021T120000
+DTEND;TZID=Europe/Skopje:20261021T140000
+SUMMARY:Биофармација
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Кристина Младеновска\nГрупа: 3\n
+ Семестар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48947@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261021T130000
+DTEND;TZID=Europe/Skopje:20261021T150000
+SUMMARY:Биофармација
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Кристина Младеновска\nГрупа: 3\n
+ Семестар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48962@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261021T140000
+DTEND;TZID=Europe/Skopje:20261021T160000
+SUMMARY:Биофармација
+LOCATION:08 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 3\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48963@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261021T150000
+DTEND;TZID=Europe/Skopje:20261021T170000
+SUMMARY:Биофармација
+LOCATION:08 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 3\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-48964@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261021T160000
+DTEND;TZID=Europe/Skopje:20261021T180000
+SUMMARY:Биофармација
+LOCATION:08 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 3\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49006@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261022T120000
+DTEND;TZID=Europe/Skopje:20261022T140000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Катерина Горачинова\nГрупа: 4\nС
+ еместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49007@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261022T130000
+DTEND;TZID=Europe/Skopje:20261022T150000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Катерина Горачинова\nГрупа: 4\nС
+ еместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49008@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261022T140000
+DTEND;TZID=Europe/Skopje:20261022T160000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Катерина Горачинова\nГрупа: 4\nС
+ еместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49130@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261027T080000
+DTEND;TZID=Europe/Skopje:20261027T100000
+SUMMARY:Храна и исхрана
+LOCATION:10 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: Aсс. м-
+ р Ана Марија Бајатовска\nГрупа: 1\nСеме
+ стар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49131@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261027T090000
+DTEND;TZID=Europe/Skopje:20261027T110000
+SUMMARY:Храна и исхрана
+LOCATION:10 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: Aсс. м-
+ р Ана Марија Бајатовска\nГрупа: 1\nСеме
+ стар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49132@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261027T100000
+DTEND;TZID=Europe/Skopje:20261027T120000
+SUMMARY:Храна и исхрана
+LOCATION:10 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: Aсс. м-
+ р Ана Марија Бајатовска\nГрупа: 1\nСеме
+ стар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49119@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261027T110000
+DTEND;TZID=Europe/Skopje:20261027T130000
+SUMMARY:Храна и исхрана
+LOCATION:02 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Тања Петреска Ивановска\nГрупа
+ : 1\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49120@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261027T120000
+DTEND;TZID=Europe/Skopje:20261027T140000
+SUMMARY:Храна и исхрана
+LOCATION:02 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Тања Петреска Ивановска\nГрупа
+ : 1\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49121@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261027T130000
+DTEND;TZID=Europe/Skopje:20261027T150000
+SUMMARY:Храна и исхрана
+LOCATION:02 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Тања Петреска Ивановска\nГрупа
+ : 1\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-57817@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261027T140000
+DTEND;TZID=Europe/Skopje:20261027T160000
+SUMMARY:Фармакогнозија
+LOCATION:03 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Марија Карапанџова\nГрупа: 3\nСе
+ местар: 5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-57818@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261027T150000
+DTEND;TZID=Europe/Skopje:20261027T170000
+SUMMARY:Фармакогнозија
+LOCATION:03 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Марија Карапанџова\nГрупа: 3\nСе
+ местар: 5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-57819@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261027T160000
+DTEND;TZID=Europe/Skopje:20261027T180000
+SUMMARY:Фармакогнозија
+LOCATION:03 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Марија Карапанџова\nГрупа: 3\nСе
+ местар: 5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49147@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261028T110000
+DTEND;TZID=Europe/Skopje:20261028T130000
+SUMMARY:Биофармација
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Кристина Младеновска\nГрупа: 3\n
+ Семестар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49148@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261028T120000
+DTEND;TZID=Europe/Skopje:20261028T140000
+SUMMARY:Биофармација
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Кристина Младеновска\nГрупа: 3\n
+ Семестар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49149@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261028T130000
+DTEND;TZID=Europe/Skopje:20261028T150000
+SUMMARY:Биофармација
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Кристина Младеновска\nГрупа: 3\n
+ Семестар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49164@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261028T140000
+DTEND;TZID=Europe/Skopje:20261028T160000
+SUMMARY:Биофармација
+LOCATION:08 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 3\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49165@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261028T150000
+DTEND;TZID=Europe/Skopje:20261028T170000
+SUMMARY:Биофармација
+LOCATION:08 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 3\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49166@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261028T160000
+DTEND;TZID=Europe/Skopje:20261028T180000
+SUMMARY:Биофармација
+LOCATION:08 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 3\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49210@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261029T120000
+DTEND;TZID=Europe/Skopje:20261029T140000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Катерина Горачинова\nГрупа: 4\nС
+ еместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49211@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261029T130000
+DTEND;TZID=Europe/Skopje:20261029T150000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Катерина Горачинова\nГрупа: 4\nС
+ еместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49212@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261029T140000
+DTEND;TZID=Europe/Skopje:20261029T160000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:01 пред.
+DESCRIPTION:Тип: Предавање\nПроф/асистент: П
+ роф. д-p Катерина Горачинова\nГрупа: 4\nС
+ еместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49297@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261030T120000
+DTEND;TZID=Europe/Skopje:20261030T140000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:09 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 4\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49298@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261030T130000
+DTEND;TZID=Europe/Skopje:20261030T150000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:09 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 4\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49299@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261030T140000
+DTEND;TZID=Europe/Skopje:20261030T160000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:09 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 4\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ukim-49300@2k8hy9m675-coder.github.io
+DTSTAMP:20261019T202134Z
+DTSTART;TZID=Europe/Skopje:20261030T150000
+DTEND;TZID=Europe/Skopje:20261030T170000
+SUMMARY:Фармацевтска технологија – напре
+ дно ниво
+LOCATION:09 лаб.
+DESCRIPTION:Тип: Вежби\nПроф/асистент: \nГруп
+ а: 4\nСеместар: 7
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
